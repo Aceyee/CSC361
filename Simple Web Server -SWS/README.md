@@ -1,4 +1,4 @@
-"# CSC361-Simple-Web-Server" 
+"# CSC361-Simple-Web-Server\n" 
 "# CSC361 A1" 
 "# Zihan Ye" 
 "# V00793984" 
