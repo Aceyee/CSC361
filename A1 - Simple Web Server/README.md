@@ -1,6 +1,4 @@
-"# CSC361-Simple-Web-Server" 
-
-"# CSC361 A1 README.md"
+CSC361 A1 README.md
 
 Zihan Ye
 
